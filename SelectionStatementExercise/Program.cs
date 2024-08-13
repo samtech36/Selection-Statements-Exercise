@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            NumberGame();
+            NumberGuessGame();
         }
 
-        public static void NumberGame()
+        public static void NumberGuessGame()
 
         {
             Random r = new Random();
